@@ -10,10 +10,11 @@
     </div>
 </div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔗 Links </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         📸 Instagram: <a href="https://www.instagram.com/easyy_mm/" target="_blank">@easyy_mm</a> <br>
         ✏️ Velog: <a href="https://velog.io/@easyymm" target="_blank">@easyymm</a> <br>
+        🤝 LinkedIn: <a href="https://www.linkedin.com/in/jimin-lee-150782233/" target="_blank">Jimin Lee</a> <br>
         📧 Email: <a href="mailto:lmlm200303@naver.com">lmlm200303@naver.com</a> 
     </div>
 </div> <br>

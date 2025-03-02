@@ -1,5 +1,5 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7000,100:006875&height=180&text=easyymm's%20Space%20📊&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+<div align="right">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7000,100:006875&height=260&text=easyymm's%20Space%20📊&animation=fadeIn&fontColor=ffffff&fontSize=66&desc=Welcome%20to%20My%20GitHub👋🏻&descAlign=71&descAlignY=72&descSize=22" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Profile </h2>  
@@ -13,5 +13,5 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyymm&show_icons=true&theme=vue-dark)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyymm&show_icons=true&theme=vue)
+

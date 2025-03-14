@@ -6,7 +6,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔎 Profile </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         ▪️ 2022~ International Logistics, CAU <br>
-        ▪️ 2024~ CAU Data Analysis Society, DArt-B
+        ▪️ 2024~ CAU Data Analysis Society, DArt-B <br>
         ▪️ 2025~ CAU SCM Analysis Society
     </div>
 </div>
